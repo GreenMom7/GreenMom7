@@ -2,7 +2,7 @@
 
 I am Muhammad Akmal, a Computer Science student at Université Technologie de Belfort-Montbéliard ⚙️
 
-#### <u>Skills</u>
+#### <u>Skills<u>
 
 ##### 🖥️ Programming Languages
 
