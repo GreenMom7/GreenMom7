@@ -30,6 +30,16 @@ I am Muhammad Akmal, a Computer Science student at Université Technologie de Be
 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" /> <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" /> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" /> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 
+##### 💻 OS
+
+<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
+![GreenMom7's GitHub stats](https://github-readme-stats.vercel.app/api?username=GreenMom7&show_icons=true)
+
+<img src="https://raw.githubusercontent.com/GreenMom7/GreenMom7/output/snake.svg" alt="Snake animation" />
+
+###
+
 <!--
 **GreenMom7/GreenMom7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
