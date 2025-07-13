@@ -1,6 +1,4 @@
-## Hello World 👋
-
-I am Muhammad Akmal, a Computer Science student at Université Technologie de Belfort-Montbéliard ⚙️
+# Hello World 👋
 
 ## ⚡️ Tech Stacks 
 
