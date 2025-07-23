@@ -1,4 +1,5 @@
 # Hello World 👋
+A motivated student, I love to learn and discover new things.
 
 ## ⚡️ Tech Stacks 
 
